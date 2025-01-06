@@ -1,0 +1,168 @@
+{
+  "inputs": {
+    "https :https://framerusercontent.com/modules/dfpYjAbj377RtdHDCj0d/TXk50XAXvhz24VhJjq3c/O70TlKbcQ.js": {
+      "bytes": 4975,
+      "imports": [
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    },
+    "https :https://framerusercontent.com/modules/lTmPz0i9bjUt6kybuzt2/qCAfHZf8bEY8XtH1nfmL/serTvl8yg.js": {
+      "bytes": 5134,
+      "imports": [
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    },
+    "https :https://framerusercontent.com/modules/bgaiYfGxbWXNtDX40nSZ/Y4mSCd9JZ4Ty3FrFOqZk/FzJyyLkt1.js": {
+      "bytes": 13081,
+      "imports": [
+        {
+          "path": "react/jsx-runtime",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "react",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "https :https://framerusercontent.com/modules/dfpYjAbj377RtdHDCj0d/TXk50XAXvhz24VhJjq3c/O70TlKbcQ.js",
+          "kind": "import-statement",
+          "original": "https://framerusercontent.com/modules/dfpYjAbj377RtdHDCj0d/TXk50XAXvhz24VhJjq3c/O70TlKbcQ.js"
+        },
+        {
+          "path": "https :https://framerusercontent.com/modules/lTmPz0i9bjUt6kybuzt2/qCAfHZf8bEY8XtH1nfmL/serTvl8yg.js",
+          "kind": "import-statement",
+          "original": "https://framerusercontent.com/modules/lTmPz0i9bjUt6kybuzt2/qCAfHZf8bEY8XtH1nfmL/serTvl8yg.js"
+        }
+      ],
+      "format": "esm"
+    },
+    "virtual:service-card": {
+      "bytes": 2835,
+      "imports": [
+        {
+          "path": "react",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "https :https://framerusercontent.com/modules/bgaiYfGxbWXNtDX40nSZ/Y4mSCd9JZ4Ty3FrFOqZk/FzJyyLkt1.js",
+          "kind": "import-statement",
+          "original": "https://framerusercontent.com/modules/bgaiYfGxbWXNtDX40nSZ/Y4mSCd9JZ4Ty3FrFOqZk/FzJyyLkt1.js"
+        },
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "react/jsx-runtime",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "format": "esm"
+    }
+  },
+  "outputs": {
+    "service-card.js": {
+      "imports": [
+        {
+          "path": "react",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "react/jsx-runtime",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "react",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "unframer",
+          "kind": "import-statement",
+          "external": true
+        },
+        {
+          "path": "react/jsx-runtime",
+          "kind": "import-statement",
+          "external": true
+        }
+      ],
+      "exports": [
+        "default"
+      ],
+      "entryPoint": "virtual:service-card",
+      "inputs": {
+        "virtual:service-card": {
+          "bytesInOutput": 1195
+        },
+        "https :https://framerusercontent.com/modules/bgaiYfGxbWXNtDX40nSZ/Y4mSCd9JZ4Ty3FrFOqZk/FzJyyLkt1.js": {
+          "bytesInOutput": 11732
+        },
+        "https :https://framerusercontent.com/modules/dfpYjAbj377RtdHDCj0d/TXk50XAXvhz24VhJjq3c/O70TlKbcQ.js": {
+          "bytesInOutput": 4569
+        },
+        "https :https://framerusercontent.com/modules/lTmPz0i9bjUt6kybuzt2/qCAfHZf8bEY8XtH1nfmL/serTvl8yg.js": {
+          "bytesInOutput": 4746
+        }
+      },
+      "bytes": 22765
+    }
+  }
+}
