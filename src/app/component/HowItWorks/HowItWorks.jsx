@@ -20,7 +20,7 @@ const content = [
       "View the automatically calculated fare, and add or ignore additional services such as baggage assistance or wheelchair access.",
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
-        <img
+        <Image
           src="/img/hospital.jpeg"
           width={300}
           height={300}

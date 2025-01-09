@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 
 function RegisterForm() {
   return (
@@ -30,7 +31,10 @@ function RegisterForm() {
         </div>
 
         <div>
-            <img src="/img/register.avif" alt="register"
+            <Image src="/img/register.avif" alt="register"
+
+            width={500}
+            height={500}
             className="w-full h-96 rounded-lg object-cover object-center" />
         </div>
         

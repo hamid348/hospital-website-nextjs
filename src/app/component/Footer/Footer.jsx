@@ -1,5 +1,6 @@
-import { title } from 'process'
-import React from 'react'
+// import { title } from 'process'
+import React from 'react';
+import Image from 'next/image';
 
 function Footer() {
   return (
@@ -10,9 +11,11 @@ function Footer() {
     <div class="flex justify-between items-center mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
            
            <div>
-            <img
+            <Image
             src='/img/logo.webp'
             alt='logo'
+            width={200}
+            height={200}
             />
            </div>
            <div>

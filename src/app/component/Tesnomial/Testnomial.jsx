@@ -1,5 +1,5 @@
 import { AnimatedTestimonials } from "@/app/component/ui/animated-testimonials";
-import Image from "next/image";
+// import Image from "next/image";
 export function Testnomial() {
   const testimonials = [
     {

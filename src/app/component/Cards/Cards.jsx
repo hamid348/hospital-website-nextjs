@@ -1,11 +1,11 @@
 'use client'
 import Image from 'next/image';
 import card from '@/data/Cards.json';
-import Link from 'next/link';
+// import Link from 'next/link';
 import { CardBody, CardContainer, CardItem } from "../ui/3d-card";
 
 import React from 'react'
-import { div } from 'framer-motion/client';
+// import { div } from 'framer-motion/client';
 
 const Card = () => {
    

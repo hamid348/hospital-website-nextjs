@@ -1,5 +1,5 @@
 // import Image from "next/image";
-import SideBar from '@/app/component/SideBar/SideBar';
+// import SideBar from '@/app/component/SideBar/SideBar';
 import {HeroSection} from '@/app/component/HeroSection/HeroSection';
 import  Cards  from '@/app/component/Cards/Cards'
 import {HowItWorks} from '@/app/component/HowItWorks/HowItWorks'
