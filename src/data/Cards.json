@@ -1,0 +1,32 @@
+[
+    {
+        "img": "/img/girl.jpeg",
+        "title": "Card Title 1",
+        "description": "This is the description for card 1.",
+        "link": "https://example.com/link1"
+    },
+    {
+        "img": "/img/girl.jpeg",
+        "title": "Card Title 2",
+        "description": "This is the description for card 2.",
+        "link": "https://example.com/link2"
+    },
+    {
+        "img": "/img/girl.jpeg",
+        "title": "Card Title 3",
+        "description": "This is the description for card 3.",
+        "link": "https://example.com/link3"
+    },
+    {
+        "img": "/img/girl.jpeg",
+        "title": "Card Title 3",
+        "description": "This is the description for card 3.",
+        "link": "https://example.com/link3"
+    },
+    {
+        "img": "/img/girl.jpeg",
+        "title": "Card Title 3",
+        "description": "This is the description for card 3.",
+        "link": "https://example.com/link3"
+    }
+]

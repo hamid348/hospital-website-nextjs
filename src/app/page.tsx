@@ -5,6 +5,8 @@ import  Cards  from '@/app/component/Cards/Cards'
 import {HowItWorks} from '@/app/component/HowItWorks/HowItWorks'
 import RegisterForm from '@/app/component/RegisterForm/RegisterForm';
 // import Footer from '@/app/component/Footer/Footer';
+import { Testnomial } from '@/app/component/Tesnomial/Testnomial';
+
 
 
 export default function Home() {
@@ -15,6 +17,9 @@ export default function Home() {
     <Cards/>
     <HowItWorks/>
     <RegisterForm/>
+  
+    
+    <Testnomial/>
    
     
    </div>
